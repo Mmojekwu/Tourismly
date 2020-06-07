@@ -25,7 +25,7 @@ SECRET_KEY = 'nn6%))u413+pgbg_tc0!rdnrvc%8ku)9f*8c=u@gxwlhote3km'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["intense-cliffs-24471.herokuapp.com",]
+ALLOWED_HOSTS = ["tourismly.herokuapp.com",]
 
 
 # Application definition
